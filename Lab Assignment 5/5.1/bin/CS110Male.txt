@@ -1,0 +1,7 @@
+		Male Students in CS110
+Matrix Number  Name                          Part      
+111111         Ahmad                         Part A    
+555555         Ali                           Part A    
+999999         Ahmad                         Part A    
+
+Number of male students for CS110: 3

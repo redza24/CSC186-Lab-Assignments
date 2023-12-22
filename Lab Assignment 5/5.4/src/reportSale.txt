@@ -1,0 +1,8 @@
+Item                          Quantity       Price(RM)      Sub total(RM)
+Mi Maggi                      5              1.2            6.00      
+Colgate Toothpaste            10             12.4           124.00    
+Fresh Vegetable-01            6              2.5            15.00     
+Fresh Vegetable-02            3              3.0            9.00      
+Biscuit                       20             6.3            126.00    
+
+TOTAL SALE for date: 21st, February 2018 is: RM 126.00

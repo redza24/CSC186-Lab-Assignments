@@ -1,0 +1,6 @@
+		Male Students in CS111
+Matrix Number  Name                          Part      
+333333         Muhammad                      Part A    
+777777         Ismail                        Part A    
+
+Number of male students for CS111: 2
